@@ -42,19 +42,20 @@ For more info: https://trac.ffmpeg.org/wiki/HowToBurnSubtitlesIntoVideo
 ## Styles
 ### Naming
 ```
-1080p 16 yellow raised
-^     ^  ^      ^
-|     |  |      |
-|     |  |      look
-|     |  font color
-|     font size
+1080p dejavusans 16 yellow raised
+^     ^          ^  ^      ^
+|     |          |  |      |
+|     |          |  |      look
+|     |          |  font color
+|     |          font size
+|     font name
 resolution
 ```
 
-### 1080p 16 yellow raised
+### 1080p dejavusans 16 yellow raised
 ```
 Style: Default,DejaVu Sans,16,&H0000FFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.7,1.4,2,10,10,10,0
 ```
 
-![](screenshots/1080p-16-yellow-raised.png)
+![](screenshots/1080p-dejavusans-16-yellow-raised.png)
 
