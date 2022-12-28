@@ -6,8 +6,8 @@ Put any "Style:" configuration under the "[V4+ Styles]" section, just below "For
 
 ```
 [V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColou     r, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outlin     e, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,DejaVu Sans,16,&H0000FFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,     0,0,1,0.7,1.4,2,10,10,10,0
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,DejaVu Sans,16,&H0000FFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.7,1.4,2,10,10,10,0
 ```
 
 ### Convert to .ass
@@ -53,7 +53,7 @@ resolution
 
 ### 1080p 16 yellow raised
 ```
-Style: Default,DejaVu Sans,16,&H0000FFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,     0,0,1,0.7,1.4,2,10,10,10,0
+Style: Default,DejaVu Sans,16,&H0000FFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.7,1.4,2,10,10,10,0
 ```
 
 ![](screenshots/1080p-16-yellow-raised.png)
