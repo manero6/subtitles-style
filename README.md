@@ -10,6 +10,8 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,DejaVu Sans,16,&H0000FFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.7,1.4,2,10,10,10,0
 ```
 
+About ASS color codes: https://aeg-dev.github.io/AegiSite/docs/3.2/colour_picker
+
 ### Convert to .ass
 Use `ffmpeg` to convert to `.ass` format, for example:
 
